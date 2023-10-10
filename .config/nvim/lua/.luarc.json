@@ -1,0 +1,26 @@
+{
+    "workspace.library": [
+        "/Users/volker/.config/nvim",
+        "/Users/volker/.local/share/nvim/site",
+        "/Users/volker/.local/share/nvim/site/pack/packer/start/gitsigns.nvim",
+        "/Users/volker/.local/share/nvim/site/pack/packer/start/hop.nvim",
+        "/Users/volker/.local/share/nvim/site/pack/packer/start/indent-blankline.nvim",
+        "/Users/volker/.local/share/nvim/site/pack/packer/start/lualine.nvim",
+        "/Users/volker/.local/share/nvim/site/pack/packer/start/LuaSnip",
+        "/Users/volker/.local/share/nvim/site/pack/packer/start/mason-lspconfig.nvim",
+        "/Users/volker/.local/share/nvim/site/pack/packer/start/mason.nvim",
+        "/Users/volker/.local/share/nvim/site/pack/packer/start/monokai.nvim",
+        "/Users/volker/.local/share/nvim/site/pack/packer/start/null-ls.nvim",
+        "/Users/volker/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
+        "/Users/volker/.local/share/nvim/site/pack/packer/start/nvim-tree.lua",
+        "/Users/volker/.local/share/nvim/site/pack/packer/start/nvim-treesitter",
+        "/Users/volker/.local/share/nvim/site/pack/packer/start/packer.nvim",
+        "/Users/volker/.local/share/nvim/site/pack/packer/start/plenary.nvim",
+        "/Users/volker/.local/share/nvim/site/pack/packer/start/toggleterm.nvim",
+        "/Users/volker/.local/share/nvim/site/pack/packer/start/vim-commentary",
+        "/Users/volker/.local/share/nvim/site/pack/packer/start/vim-fugitive",
+        "/opt/homebrew/Cellar/neovim/HEAD-07f5946/share/nvim/runtime",
+        "${3rd}/luassert/library",
+        "${3rd}/luv/library"
+    ]
+}
